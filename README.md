@@ -9,11 +9,13 @@ The script should:
 ● Proceed to the final payment page (without completing the payment)
 📖 Overview
 
+ LINK OF AUTOMATED TESTING VIDEO: https://drive.google.com/file/d/1M2bdHN6hWjxlTkIMgfVB1XCdTkWcS01c/view?usp=sharing
+
 This project automates the process of ordering food on Swiggy
  using Selenium WebDriver in Java.
 The automation script simulates a real user journey — from logging in, searching for a restaurant, adding food items to the cart, entering a delivery address, and proceeding to the payment page — without completing the actual payment.
 
-This assignment demonstrates end-to-end web automation testing, element identification, synchronization, and UI validation using Selenium.
+This demonstrates end-to-end web automation testing, element identification, synchronization, and UI validation using Selenium.
 
 🧩 Features Automated
 Step	Description
